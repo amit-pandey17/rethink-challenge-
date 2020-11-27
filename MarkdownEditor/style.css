@@ -1,0 +1,10 @@
+.textarea {
+  width: 640px;
+  background-color: var(--color-white);
+}
+
+.markdown{
+  width: 640px;
+  padding: 25px;
+  background-color: var(--color-white);
+}
